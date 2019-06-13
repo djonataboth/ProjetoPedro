@@ -117,7 +117,6 @@ object Form1: TForm1
       Height = 33
       Caption = 'Calcular'
       TabOrder = 5
-      OnClick = btnCalcularClick
     end
     object cbMA1: TComboBox
       Left = 344
