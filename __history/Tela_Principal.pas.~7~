@@ -35,6 +35,5 @@ var
 implementation
 
 {$R *.dfm}
-begin
 
 end.
