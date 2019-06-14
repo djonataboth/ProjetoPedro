@@ -23,6 +23,7 @@ type
     btnCalcular: TButton;
     cbMA1: TComboBox;
     cbMA3: TComboBox;
+    procedure btnCalcularClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -37,4 +38,9 @@ implementation
 {$R *.dfm}
 begin
    //oo
+procedure TForm1.btnCalcularClick(Sender: TObject);
+begin
+//lkjk
+end;
+
 end.
