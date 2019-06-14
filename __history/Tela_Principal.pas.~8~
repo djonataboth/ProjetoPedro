@@ -36,5 +36,5 @@ implementation
 
 {$R *.dfm}
 begin
-   //oo
+
 end.
